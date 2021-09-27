@@ -1,0 +1,244 @@
+[
+    {
+        "category":["new","popular"],
+        "id": "ter1",
+        "name": "Stade Leopold Sedar Senghor",
+        "sportType": "football",
+        "location": {
+            "name": "Terrain1",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": false,
+        "favoriteTag": false,
+        "pictures": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Senegal_1_-_Cameroon_0_-_Stade_Léopold_Sédar_Senghor.jpg/2880px-Senegal_1_-_Cameroon_0_-_Stade_Léopold_Sédar_Senghor.jpg",
+            "https://www.senenews.com/wp-content/uploads/2019/10/stade_leopold_sedar_senghor08-696x437.jpg"
+        ],
+        "priceTag": 5000,
+        "scheduled": [
+            {
+                "date": "06/10/2021",
+                "time": "9h-10h",
+                "client": "Lamine Diouf"
+            },
+            {
+                "date": "07/10/2021",
+                "time": "12h-13h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "07/10/2021",
+                "time": "12h-13h",
+                "client": "Guillaume Senou"
+            }
+        ]
+    },
+    {
+        "category":["new"],
+        "id": "ter2",
+        "name": "Terrain Basket Ngor",
+        "sportType": "basketball",
+        "location": {
+            "name": "Terrain central",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": false,
+        "favoriteTag": false,
+        "pictures": [
+            "https://www.geoplastglobal.com/wp-content/uploads/2018/01/DSC_0356.jpg",
+            "https://wiwsport.com/v2/wp-content/uploads/2020/10/WhatsApp-Image-2020-10-21-at-22.04.47-768x576.jpg"
+        ],
+        "priceTag": 7500,
+        "scheduled": [
+            {
+                "date": "09/10/2021",
+                "time": "10h-11h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "29/09/2021",
+                "time": "17h-18h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "27/09/2021",
+                "time": "18h-19h",
+                "client": "Guillaume Senou"
+            }
+        ]
+    },
+    {
+        "category":["new","popular"],
+        "id": "ter3",
+        "name": "Stade de Ngor",
+        "sportType": "football",
+        "location": {
+            "name": "Grand terrain",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": true,
+        "favoriteTag": true,
+        "pictures": [
+            "https://www.europlan-online.de/files/65abaeb9451f2bdd7bdee9e11c3d6c4d.jpg",
+            "https://www.europlan-online.de/files/1a2150ecd862a2efffe24db265d3a4f7.jpg"
+        ],
+        "priceTag": 2000,
+        "scheduled": [
+            {
+                "date": "30/09/2021",
+                "time": "16h-17h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "01/10/2021",
+                "time": "20h-21h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "28/09/2021",
+                "time": "15h-16h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "28/09/2021",
+                "time": "17h-18h",
+                "client": "Guillaume Senou"
+            }
+        ]
+    },
+    {
+        "category":["new"],
+        "id": "ter4",
+        "name": "Dakar Sacre Coeur",
+        "sportType": "football",
+        "location": {
+            "name": "Terrain 2",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": true,
+        "favoriteTag": true,
+        "pictures": [
+            "https://i1.wp.com/dakarsacrecoeur.com/wp-content/uploads/2019/08/Nouveau-terrain-bis-e1566481537914.jpg?w=1940&ssl=1",
+            "https://i0.wp.com/dakarsacrecoeur.com/wp-content/uploads/2018/10/Couverture-DSC.png?w=960&ssl=1"
+        ],
+        "priceTag": 30000,
+        "scheduled": [
+            {
+                "date": "27/10/2021",
+                "time": "9h-10h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "27/10/2021",
+                "time": "12h-13h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "27/10/2021",
+                "time": "16h-17h",
+                "client": "Guillaume Senou"
+            }
+        ]
+    },
+    {
+        "category":["new"],
+        "id": "ter5",
+        "name": "Golf Club Almadie",
+        "sportType": "golf",
+        "location": {
+            "name": "Golf area 1",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": true,
+        "favoriteTag": true,
+        "pictures": [
+            "https://www.golfdakar.com/sites/default/files/imageblock/slidgolf3.jpg",
+            "https://www.golfdakar.com/sites/default/files/styles/img_850_350/public/club1_1.jpg?itok=6Y7Hk0AA"
+        ],
+        "priceTag": 25000,
+        "scheduled": [
+            {
+                "date": "28/09/2021",
+                "time": "9h-10h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "30/09/2021",
+                "time": "9h-10h",
+                "client": "Guillaume Senou"
+            },
+            {
+                "date": "01/10/2021",
+                "time": "12h-13h",
+                "client": "Guillaume Senou"
+            }
+        ]
+    },
+    {
+        "category":["new","popular"],
+        "id": "ter6",
+        "name": "Olympique Club",
+        "sportType": "tennisball",
+        "location": {
+            "name": "Terrain 3",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": false,
+        "favoriteTag": true,
+        "pictures": [
+            "http://www.olympique-club.com/wp-content/uploads/tennis_1600x600.jpg",
+            "http://www.olympique-club.com/wp-content/uploads/ecoletennis_1600x600.jpg"
+        ],
+        "priceTag": 10000,
+        "scheduled": [
+            
+        ]
+    },
+    {
+        "category":["popular"],
+        "id": "ter7",
+        "name": "Olympique Club",
+        "sportType": "basketball",
+        "location": {
+            "name": "Terrain 3",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": false,
+        "favoriteTag": true,
+        "pictures": [
+            "https://lh3.googleusercontent.com/proxy/y5WXgKV06DCtEiZRqlCUIqTBqvPe4aNk2gK10fM1Px2GqZNi01zm7-JtXHMm6z8aZiIVdSl-rgzP8VWHoGRaS4L-n9xODZ8rZ1fWeFE"
+        ],
+        "priceTag": 700,
+        "scheduled": [
+            
+        ]
+    },
+    {
+        "category":["popular"],
+        "id": "ter9",
+        "name": "Parquet loisir",
+        "sportType": "football",
+        "location": {
+            "name": "Terrain 3",
+            "geo": ""
+        },
+        "arrivalTag": true,
+        "searchedTag": false,
+        "favoriteTag": true,
+        "pictures": [
+            "https://lh3.googleusercontent.com/proxy/LQAt3bC1KcoYNdFlF_UiPA175e6MYESVCGigT1prAAgsvbcxhPmcR2u98zLcEprXY682UtCPd8vesWfeNB9mP0oZGFP1",
+            "https://lh3.googleusercontent.com/proxy/SOJGD4XHSBsZQVG6Y_Bh_v7PegoulXAtfXIvT0O_8xYvPPHb_OxAmlAuUGYycWOG3O8x05tsHN7fmSXGGD9IEmbuotbo"
+        ],
+        "priceTag": 10000,
+        "scheduled": [
+            
+        ]
+    }
+]

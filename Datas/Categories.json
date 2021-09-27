@@ -1,0 +1,397 @@
+[
+    {
+        "id": "searched",
+        "title": "Recently searched",
+        "terrains": [
+            {
+                "id": "ter6",
+                "name": "Stade Ngor",
+                "sportType": "football",
+                "location": {
+                    "name": "Grand terrain",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": true,
+                "favoriteTag": true,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "05/10/2021",
+                        "time": "13h-14h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "05/10/2021",
+                        "time": "14h-15h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter5",
+                "name": "Stade Olympic",
+                "sportType": "football",
+                "location": {
+                    "name": "Terrain 2",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": true,
+                "favoriteTag": true,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter3",
+                "name": "Golf Resort",
+                "sportType": "golf",
+                "location": {
+                    "name": "Golf area 1",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": true,
+                "favoriteTag": true,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "news",
+        "title": "New availability",
+        "terrains": [
+            {
+                "id": "ter1",
+                "name": "LSS",
+                "sportType": "football",
+                "location": {
+                    "name": "Terrain1",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": false,
+                "favoriteTag": false,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter2",
+                "name": "Stade emergence",
+                "sportType": "basketball",
+                "location": {
+                    "name": "Terrain central",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": false,
+                "favoriteTag": false,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter3",
+                "name": "Golf Resort",
+                "sportType": "golf",
+                "location": {
+                    "name": "Golf area 1",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": true,
+                "favoriteTag": true,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter4",
+                "name": "Stade Olympic",
+                "sportType": "tennisball",
+                "location": {
+                    "name": "Terrain 3",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": false,
+                "favoriteTag": true,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter5",
+                "name": "Stade Olympic",
+                "sportType": "football",
+                "location": {
+                    "name": "Terrain 2",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": true,
+                "favoriteTag": true,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter6",
+                "name": "Stade Ngor",
+                "sportType": "football",
+                "location": {
+                    "name": "Grand terrain",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": true,
+                "favoriteTag": true,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "popular",
+        "title": "Most Popular",
+        "terrains": [
+            {
+                "id": "ter2",
+                "name": "Stade emergence",
+                "sportType": "basketball",
+                "location": {
+                    "name": "Terrain central",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": false,
+                "favoriteTag": false,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            },
+            {
+                "id": "ter1",
+                "name": "LSS",
+                "sportType": "football",
+                "location": {
+                    "name": "Terrain1",
+                    "geo": ""
+                },
+                "arrivalTag": true,
+                "searchedTag": false,
+                "favoriteTag": false,
+                "pictures": [
+                    "../../Datas/images/hqdefault.jpg",
+                    "../../Datas/images/hqdefault.jpg"
+                ],
+                "priceTag": 10000,
+                "scheduled": [
+                    {
+                        "date": "06/10/2021",
+                        "time": "9h-10h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    },
+                    {
+                        "date": "07/10/2021",
+                        "time": "12h-13h",
+                        "client": "Guillaume Senou"
+                    }
+                ]
+            }
+        ]
+    }
+]
+/*<FlatList
+        data={terrainData}
+        renderItem={({ item }) => (
+          <TerrainListing navigation={navigation} data={item} />
+        )}
+        keyExtractor={(item) => item.id}
+        showsHorizontalScrollIndicator={false}
+      />*/
