@@ -204,7 +204,7 @@ function HomeStackNavigation() {
   return (
     <HomeStack.Navigator initialRouteName="Home">
       <HomeStack.Screen name="Home" component={HomeScreen} 
-       options={{ title: 'Acceuil' }}
+       options={{ title: 'Acceuil!' }}
       />
       <HomeStack.Screen name="Terrain" component={TerrainScreen}
         options={({ route }) => ({ title: route.params.pageName }),
