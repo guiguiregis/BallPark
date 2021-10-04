@@ -18,11 +18,6 @@ BallPrk is a test app that allows you to rent a sport terrains, this app is made
 	"npx react-native run-ios" to open on IOS device
 	"npx react-native run-android" to run on Android device
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
 
